@@ -1,13 +1,14 @@
-# GitHub Demo Project
+# Git Learning Repository
 
-This project is created for learning Git and GitHub operations.
+This repository is created for learning and practicing Git and GitHub operations.
 
-## Technologies Used
+## Topics Practiced
+- Repository Creation
+- Git Commands
+- Branching
+- Merging
+- Pull Requests
+- Version Control
 
-- HTML
-- CSS
-- JavaScript
-
-## Author
-
-Om Solanki
+## Purpose
+To gain hands-on experience with Git and GitHub workflows.
